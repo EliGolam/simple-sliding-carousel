@@ -2,6 +2,8 @@
 
 ## VERSION
 
+### 0.7.1: Lightened HTML bulk
+
 ### 0.7: Refactoring of Javascript done
 
 * Improved readability
